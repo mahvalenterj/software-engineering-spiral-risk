@@ -1,4 +1,5 @@
 # SpiralRisk — Simulador de Ciclo de Vida de Software & Gestão de Riscos de Boehm
+Engenharia de Projeto e de Software
 
 Link da demo: Em breve (Vercel/Netlify)
 
